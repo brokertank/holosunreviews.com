@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title:  "Welcome to Jekyll!"
 date:   2025-01-07 12:12:03 -0800
 categories: jekyll update
