@@ -18,42 +18,56 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
-  links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-
-
-
-title: HolosunReviews.com
-email: contact@holosunreviews.com
+title: Holosun Reviews
+# email: contact@holosunreviews.com
+author: "Holosun Reviews"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the definitive destination for all things Holosun - where precision meets passion. Our site is your go-to resource for in-depth reviews, expert buying guides, and the latest on Holosun's cutting-edge red dot sights. Whether you're a seasoned marksman, a tactical professional, or a shooting enthusiast stepping into the world of optics, we've tailored our content to light your way.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: HolosunReviews
-github_username:  HolosunReviews
+logo: ""
+url: "https://holosunreviews.com" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: HolosunReviews
+#github_username:  HolosunReviews
+atom_feed:
+  hide: true # Remove the feed link in the footer
+
+# For sitemap generation
+sitemap:
+  file: "/sitemap.xml"
+  include_posts:
+    - "/reviews/"
+    - "/buying-guide/"
+
+# Custom SEO properties if needed
+seo:
+  canonical_baseurl: "https://holosunreviews.com"
+  twitter:
+    username: "@holosunreviews"
+  og:
+    image: "/assets/images/holosun-og-image.jpg" # A default image for Open Graph
+    image_width: 1200
+    image_height: 630
+    # locale: "en_US" # Optional, if you want to specify locale
+
+# Schema.org settings
+schema:
+  type: "WebSite"
+  name: "Holosun Reflex Sight Reviews"
+  url: "https://holosunreviews.com"
+  description: " Welcome to the definitive destination for all things Holosun - where precision meets passion. Our site is your go-to resource for in-depth reviews, expert buying guides, and the latest on Holosun's cutting-edge red dot sights. Whether you're a seasoned marksman, a tactical professional, or a shooting enthusiast stepping into the world of optics, we've tailored our content to light your way."
+  publisher:
+    "@type": "Organization"
+    name: "Yholosunreviews"
+    logo:
+      "@type": "ImageObject"
+      url: "/assets/images/holosun-site-logo.png"
+      width: 600
+      height: 60
 
 # Build settings
 theme: "minimal-mistakes-jekyll"
 plugins:
-  # - jekyll-feed
+  #- jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 

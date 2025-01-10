@@ -1,0 +1,9 @@
+main:
+  - title: Home
+    url: /
+  - title: Reviews
+    url: /reviews/
+  - title: Buying Guide
+    url: /buying-guide/
+  - title: About
+    url: /about/
