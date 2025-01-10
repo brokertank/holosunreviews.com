@@ -3,8 +3,8 @@ layout: single
 title: "Holosun 510C Review: The Ultimate Guide for 2023"
 description: "Explore our in-depth Holosun 510C review, covering performance, durability, and user experience. Learn why this red dot sight is a top choice for shooters."
 date: 2023-03-01T10:00:00-04:00
-author: "Your Name"
-categories: [Reviews]
+author: "Raven Smith"
+categories: [reviews]
 tags: [Holosun, 510C, Red Dot Sight, Optics, Shooting Gear]
 image: "/assets/images/holosun-510c-review.jpg"
 seo:

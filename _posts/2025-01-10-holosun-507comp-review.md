@@ -3,8 +3,8 @@ layout: single
 title: "Holosun 507COMP Review: Is This the Best Red Dot for Competition in 2025?"
 description: "Dive into our detailed review of the Holosun 507COMP, exploring its features, performance, and why it's a top pick for competitive shooters this year."
 date: 2025-01-10T12:00:00-08:00
-author: "Your Name"
-categories: [Reviews]
+author: "Jaxon Bolt"
+categories: [reviews]
 tags: [Holosun, 507COMP, Red Dot Sight, Competition Shooting, Optics]
 image: "/assets/images/holosun-507comp-review.jpg"
 permalink: /reviews/holosun-507comp-review/
