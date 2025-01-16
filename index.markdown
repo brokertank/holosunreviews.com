@@ -18,7 +18,7 @@ excerpt: >
   Discover the best Holosun red dot sights with our in-depth, unbiased reviews. Whether you're a pro or a beginner, we've got the insights you need.
 
 feature_row:
-  - image_path: /assets/images/jony-y-A6e7COw_nos-unsplash.jpg
+  - image_path: /assets/images/bul-sas-shorty-holosun-507comp.webp
     alt: "Holosun 507COMP Review"
     title: "Holosun 507COMP - Top Pick"
     excerpt: "Unparalleled performance for pistols. See why this is our top choice."

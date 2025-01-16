@@ -6,11 +6,17 @@ date: 2025-01-16T09:28:00-08:00
 author: "Raven Smith"
 categories: [reviews]
 tags: [Holosun, 507Comp, Red Dot Sight, Optics, Shooting Gear]
-image: "/assets/images/holosun-507comp-review.jpg"
+image: "/assets/images/bul-sas-shorty-holosun-507comp.webp"
+header:
+  overlay_color: "#333"
+  overlay_filter: 0.3
+  overlay_image: "/assets/images/bul-sas-shorty-holosun-507comp.webp"
+  teaser: "/assets/images/bul-sas-shorty-holosun-507comp.webp"  # Optional, if different from header image
+excerpt: "Discover the Holosun 507Comp's standout features, from its expansive viewing window to its versatile reticle system, enhancing both competitive and defensive shooting capabilities."
 seo:
   type: "Review"
   product_name: "Holosun 507Comp"
-  product_image: "/assets/images/holosun-507comp-review.jpg"
+  product_image: "/assets/images/bul-sas-shorty-holosun-507comp.webp"
   rating_value: "4.8"
   best_rating: "5"
   review_count: "150"
@@ -58,7 +64,7 @@ permalink: /reviews/holosun-507comp-review/
 }
 </script>
 
-In this in-depth review, we'll explore the Holosun 507Comp, a standout product from a brand that has become synonymous with quality and affordability over the last decade. We take a closer look at how this optic revolutionizes both competitive and defensive shooting scenarios through its innovative features.
+In this in-depth review, we'll explore the [Holosun 507Comp](https://limitedoptics.com/products/holosun-hs507comp/), a standout product from a brand that has become synonymous with quality and affordability over the last decade. We take a closer look at how this optic revolutionizes both competitive and defensive shooting scenarios through its innovative features.
 
 ## Introduction to the Echelon and 507Comp Synergy
 
