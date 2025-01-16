@@ -68,7 +68,24 @@ In this in-depth review, we'll explore the [Holosun 507Comp](https://limitedopti
 
 ## Introduction to the Echelon and 507Comp Synergy
 
-The Springfield Echelon has quickly become my go-to pistol for range days due to its distinctive and superior features, making it a formidable player in the polymer striker-fired market. However, my interest in pairing it with a reflex optic like the Holosun 507Comp was piqued by the Echelon's innovative Variable Interface System (VIS). After a sneak peek at an industry trade show, I knew the 507Comp was the optic to test on the Echelon.
+The [Springfield Echelon](https://www.springfield-armory.com/echelon-series-handguns/echelon-handguns/) has quickly become my go-to pistol for range days due to its distinctive and superior features, making it a formidable player in the polymer striker-fired market. However, my interest in pairing it with a reflex optic like the Holosun 507Comp was piqued by the Echelon's innovative Variable Interface System (VIS). After a sneak peek at an industry trade show, I knew the 507Comp was the optic to test on the Echelon.
+
+<figure>
+<img src="/assets/images/holosun-507comp-review-echelon-medium.webp" 
+     alt="Holosun 507Comp Red Dot Sight Reviewed on Springfield Echelon Pistol" 
+     title="Holosun 507Comp Optic Mounted on Echelon for Performance Review" 
+     loading="lazy"
+     width="800" 
+     height="600"
+     srcset="/assets/images/holosun-507comp-review-echelon-small.webp 300w,
+             /assets/images/holosun-507comp-review-echelon-medium.webp 600w,
+             /assets/images/holosun-507comp-review-echelon-large.webp 1200w"
+     sizes="(max-width: 300px) 300px, 
+            (max-width: 600px) 600px,
+            1200px">
+
+<figcaption>Holosun 507Comp mounted on Springfield Echelon, showcasing the integration and performance of the red dot sight.</figcaption>
+</figure>
 
 ## The 507Comp's Impressive Optics
 
